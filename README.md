@@ -26,13 +26,7 @@ git clone https://github.com/ZAD4YTV/excract-wifi-passwords-from-windows/
 cd excract-wifi-passwords-from-windows
 ```
 
-3. Install all the packages need
-
-```sh
-pip install -r requirements.txt
-```
-
-4. Start the App
+3. Start the App
 
 ```sh
 python app.py
