@@ -33,6 +33,9 @@ python app.py
 ```
 
 - If you have multiple Python Installations use Python 3(+7)
+```sh
+python3 app.py
+```
 
 ### Aclaration
 
