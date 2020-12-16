@@ -14,25 +14,25 @@
 
 ### Installation
 
-1. Clone the repository
+1.Clone the repository
 
 ```sh
 git clone https://github.com/ZAD4YTV/excract-wifi-passwords-from-windows/
 ```
 
-2. Move inside the repository
+2.Move inside the repository
 
 ```sh
 cd excract-wifi-passwords-from-windows
 ```
 
-3. Install all the packages need
+3.Install all the packages need
 
 ```sh
 pip install -r requirements.txt
 ```
 
-4. Start the App
+4.Start the App
 
 ```sh
 python app.py
