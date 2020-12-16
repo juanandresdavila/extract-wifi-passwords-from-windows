@@ -73,4 +73,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-- Read more [here] (<https://mit-license.org/>)
+- Read more [here] (< License https://mit-license.org/>)
