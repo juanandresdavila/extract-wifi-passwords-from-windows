@@ -14,40 +14,37 @@
 
 ### Installation
 
-1.Clone the repository
+1. Clone the repository
 
 ```sh
 git clone https://github.com/ZAD4YTV/excract-wifi-passwords-from-windows/
 ```
 
-2.Move inside the repository
+2. Move inside the repository
 
 ```sh
 cd excract-wifi-passwords-from-windows
 ```
 
-3.Install all the packages need
-
-```sh
-pip install -r requirements.txt
-```
-
-4.Start the App
+3. Start the App
 
 ```sh
 python app.py
 ```
 
 - If you have multiple Python Installations use Python 3(+7)
+```sh
+python3 app.py
+```
 
 ### Aclaration
 
-- Video of this proyect, by [NeuralNine] (<https://www.youtube.com/channel/UC8wZnXYK_CGKlBcZp-GxYPA>), click [here] (<https://www.youtube.com/watch?v=J_qQuxdnfTE>)
+- Video of this proyect, by <a href="https://www.youtube.com/channel/UC8wZnXYK_CGKlBcZp-GxYPA">NeuralNine</a>, click <a href="<https://www.youtube.com/watch?v=J_qQuxdnfTE">**here**</a> to see the video.
 
 ### License
 
 - This project is under the MIT License. _Url below_
-- **<https://github.com/ZAD4YTV/excract-wifi-passwords-from-windows/LICENSE>**
+- <a href="https://github.com/ZAD4YTV/excract-wifi-passwords-from-windows/LICENSE">**LICENSE**</a>
 
 ```txt
 MIT License
@@ -73,4 +70,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-- Read more [here] (<https://mit-license.org/>)
+- Read more, license <a href="https://mit-license.org/">**link**</a>
