@@ -42,7 +42,7 @@ python app.py
 
 ### Aclaration
 
-- Video of this proyect, by <a href="https://www.youtube.com/channel/UC8wZnXYK_CGKlBcZp-GxYPA"NeuralNine</a>, click <a href="<https://www.youtube.com/watch?v=J_qQuxdnfTE">**here**</a> to see the video.
+- Video of this proyect, by <a href="https://www.youtube.com/channel/UC8wZnXYK_CGKlBcZp-GxYPA">NeuralNine</a>, click <a href="<https://www.youtube.com/watch?v=J_qQuxdnfTE">**here**</a> to see the video.
 
 ### License
 
