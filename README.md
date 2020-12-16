@@ -35,10 +35,14 @@ pip install -r requirements.txt
 4.Start the App
 
 ```sh
-python apppy
+python app.py
 ```
 
 - If you have multiple Python Installations use Python 3(+7)
+
+### Aclaration
+
+- Video of this proyect, by [NeuralNine] (<https://www.youtube.com/channel/UC8wZnXYK_CGKlBcZp-GxYPA>), click [here] (<https://www.youtube.com/watch?v=J_qQuxdnfTE>)
 
 ### License
 
