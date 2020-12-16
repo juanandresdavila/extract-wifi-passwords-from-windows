@@ -42,12 +42,12 @@ python app.py
 
 ### Aclaration
 
-- Video of this proyect, by [NeuralNine] (<https://www.youtube.com/channel/UC8wZnXYK_CGKlBcZp-GxYPA>), click [here] (<https://www.youtube.com/watch?v=J_qQuxdnfTE>)
+- Video of this proyect, by <a href="https://www.youtube.com/channel/UC8wZnXYK_CGKlBcZp-GxYPA"NeuralNine</a>, click <a href="<https://www.youtube.com/watch?v=J_qQuxdnfTE">here</a> to see the video.
 
 ### License
 
 - This project is under the MIT License. _Url below_
-- **<https://github.com/ZAD4YTV/excract-wifi-passwords-from-windows/LICENSE>**
+- <a href="https://github.com/ZAD4YTV/excract-wifi-passwords-from-windows/LICENSE">LICENSE</a>
 
 ```txt
 MIT License
@@ -73,4 +73,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-- Read more [here] (< License https://mit-license.org/>)
+- Read more, license <a href="https://mit-license.org/">link</a>
